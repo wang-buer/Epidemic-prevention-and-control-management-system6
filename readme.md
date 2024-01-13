@@ -1,10 +1,4 @@
-# 基于springboot的疫情防控管理系统
-
-## 获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**疫情6**，获取完整版源码
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于springboot的疫情防控管理系统6
 
 ## 1、项目介绍
 
@@ -35,51 +29,44 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162337425.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202211162337425.jpg)
 
 ### 4.2 用户模块
 
-![用户-需求管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338895.jpg)
+![用户-需求管理](https://www.codeshop.fun/Typora-Images/202211162338895.jpg)
 
-![用户-体温上报管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338938.jpg)
+![用户-体温上报管理](https://www.codeshop.fun/Typora-Images/202211162338938.jpg)
 
-![用户-查看物资配送信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338955.jpg)
+![用户-查看物资配送信息](https://www.codeshop.fun/Typora-Images/202211162338955.jpg)
 
-![用户-查看核酸结果](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338938.jpg)
+![用户-查看核酸结果](https://www.codeshop.fun/Typora-Images/202211162338938.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338681.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202211162338681.jpg)
 
-![管理员-隔离地点管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338257.jpg)
+![管理员-隔离地点管理](https://www.codeshop.fun/Typora-Images/202211162338257.jpg)
 
-![管理员-隔离人员管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338710.jpg)
+![管理员-隔离人员管理](https://www.codeshop.fun/Typora-Images/202211162338710.jpg)
 
-![管理员-防护用具管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338232.jpg)
+![管理员-防护用具管理](https://www.codeshop.fun/Typora-Images/202211162338232.jpg)
 
-![管理员-消毒管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338401.jpg)
+![管理员-消毒管理](https://www.codeshop.fun/Typora-Images/202211162338401.jpg)
 
-![管理员-生活需求管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338270.jpg)
+![管理员-生活需求管理](https://www.codeshop.fun/Typora-Images/202211162338270.jpg)
 
-![管理员-体温上报管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338595.jpg)
+![管理员-体温上报管理](https://www.codeshop.fun/Typora-Images/202211162338595.jpg)
 
-![管理员-核酸结果管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338361.jpg)
+![管理员-核酸结果管理](https://www.codeshop.fun/Typora-Images/202211162338361.jpg)
 
-![管理员-配餐管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338402.jpg)
+![管理员-配餐管理](https://www.codeshop.fun/Typora-Images/202211162338402.jpg)
 
-![管理员-物资配送管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338201.jpg)
+![管理员-物资配送管理](https://www.codeshop.fun/Typora-Images/202211162338201.jpg)
 
-![管理员-隔离解除管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202211162338863.jpg)
+![管理员-隔离解除管理](https://www.codeshop.fun/Typora-Images/202211162338863.jpg)
 
-## 5、视频演示
+## 获取方式
 
-[点击播放视频，视频位于文章最后](输入链接)
+下方扫一扫关注后，后台回复关键词：**疫情**，查看导入教程视频、sql脚本和源码等
 
-## 6、获取方式
-
-关注公众号： **程序员王不二**，回复关键词  ：**疫情6** ，获取完整版源码
-
-
-
-![公众号](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
